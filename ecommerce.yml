@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: SPRING_MICROSERVICE_JWT_TOKEN
+  secret: SPRING_MICROSERVICE_JWT_TOKEN_NEW
 
 gateway:
   ip: 127.0.0.1
